@@ -1,6 +1,6 @@
 # profile_card_lab2
 
-A new Flutter project.
+A new Flutter project — profile card.
 
 ## Getting Started
 
